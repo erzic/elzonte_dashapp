@@ -1,0 +1,1 @@
+web: gunicorn dash_airbnb_as_3:server
